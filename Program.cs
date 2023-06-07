@@ -28,7 +28,7 @@
         int ShowMainMenu()
         {
             Console.WriteLine("----------------------------------------");
-            Console.WriteLine("Ingrese la opción a realizar: ");
+            Console.WriteLine("INGRESE LA OPERACION A REALIZAR: ");
             Console.WriteLine("1. Nueva tarea");
             Console.WriteLine("2. Remover tarea");
             Console.WriteLine("3. Tareas pendientes");
